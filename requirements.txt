@@ -2,5 +2,5 @@ pandas
 numpy
 yfinance
 matplotlib
-scipy
+Seaborn
 
