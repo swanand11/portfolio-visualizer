@@ -11,7 +11,7 @@ Portfolio Visualizer is a Python application that allows users to manage and vis
 - Calculate and display beta for individual stocks and the entire portfolio.
 
 ## Requirements
-- Python 3.x
+- Python 
 - Libraries:
   - pandas
   - numpy
